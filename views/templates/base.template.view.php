@@ -11,6 +11,7 @@
 
 <body>
     <div class="wrapper--default">
+        <h2>base template</h2>
         <?php
 
         require './../pages/home.page.view.php';
