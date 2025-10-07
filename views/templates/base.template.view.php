@@ -17,6 +17,7 @@
         require './../pages/home.page.view.php';
 
         ?>
+        <div>footer</div>
     </div>
 </body>
 
