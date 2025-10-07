@@ -14,7 +14,7 @@
         <h2>base template</h2>
         <?php
 
-        require './../pages/home.page.view.php';
+        require './pages/home.page.view.php';
 
         ?>
         <div>footer</div>
